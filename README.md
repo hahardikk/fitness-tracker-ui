@@ -8,7 +8,7 @@ Frontend:
 https://fitness-tracker-ui.onrender.com
 
 Backend:
-https://fitness-tracker-backend-klk2.onrender.com
+https://fitness-tracker-backend-klk2.onrender.com/health
 
 API Documentation (Swagger):
 https://fitness-tracker-backend-klk2.onrender.com/swagger-ui/index.html
