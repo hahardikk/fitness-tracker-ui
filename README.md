@@ -7,6 +7,9 @@ A modern and responsive Fitness Tracker frontend built with React. It allows use
 Frontend:
 https://fitness-tracker-ui.onrender.com
 
+Backend:
+https://fitness-tracker-backend-klk2.onrender.com
+
 API Documentation (Swagger):
 https://fitness-tracker-backend-klk2.onrender.com/swagger-ui/index.html
 
