@@ -1,7 +1,6 @@
-import React from "react";
 import { Route, Routes } from "react-router-dom";
 import Register from "../pages/Register";
-import Login from "../pages/login";
+import Login from "../pages/Login";
 import Dashboard from "../pages/Dashboard";
 import ProtectedRoutes from "./ProtectedRoutes";
 import Activities from "../pages/Activities";

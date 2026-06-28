@@ -3,7 +3,7 @@ import api from "../services/api";
 import { Link, useNavigate } from "react-router-dom";
 import { useActivity } from "../context/ActivityContext";
 
-const login = () => {
+const Login = () => {
   const navigate = useNavigate();
   const { fetchActivities } = useActivity();
 
@@ -128,4 +128,4 @@ const login = () => {
   );
 };
 
-export default login;
+export default Login;
