@@ -1,5 +1,5 @@
 import ActivityCard from "../components/ActivityCard";
-import Navbar from "../components/NavBar";
+import Navbar from "../components/Navbar";
 import LoadingSpinner from "../components/LoadingSpinner";
 import { useActivity } from "../context/ActivityContext";
 
